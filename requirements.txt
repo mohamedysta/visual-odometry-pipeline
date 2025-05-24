@@ -1,0 +1,4 @@
+opencv-python>=4.5
+numpy>=1.18
+matplotlib>=3.2
+jupyter    # if you plan to use the notebooks
