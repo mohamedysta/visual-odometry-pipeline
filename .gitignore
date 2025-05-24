@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL-files
+__pycache__/
+*.py[cod]
+*.so
+
+# Videos, data, outputs
+data/*.mp4
+vo_output_*.mp4
+visual_odometry_trajectory.png
+
+# Environments
+.env
+venv/
